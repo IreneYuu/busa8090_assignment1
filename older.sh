@@ -1,3 +1,4 @@
+#!/bin/bash
 if [ "$1" -ot "$2" ]
 then
 	if [ "$1" -ot "$3" ]
